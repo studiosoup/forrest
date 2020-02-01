@@ -164,6 +164,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.DefaultCompany.Forrestvr
     Standalone: com.DefaultCompany.Forrestvr
   buildNumber: {}
   AndroidBundleVersionCode: 1
